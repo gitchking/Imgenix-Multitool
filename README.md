@@ -1,4 +1,4 @@
-# Firebase Studio
+# Imgenix-Multitool
 
 This is a NextJS starter in Firebase Studio.
 
