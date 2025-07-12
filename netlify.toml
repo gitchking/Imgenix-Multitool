@@ -14,7 +14,7 @@
   # Enable Next.js private worker for better performance
   NEXT_PRIVATE_WORKER_ENABLED = "true"
   # Set Node.js version for compatibility
-  NODE_VERSION = "18"
+  NODE_VERSION = "18.20.8"
   # Enable Next.js telemetry (optional)
   NEXT_TELEMETRY_DISABLED = "1"
 
